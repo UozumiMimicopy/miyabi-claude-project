@@ -9,3 +9,18 @@ Thumbs.db
 # Environment
 .env
 .env.local
+
+# Miyabi
+logs/
+reports/
+Plans.md
+.worktrees/
+
+# Node modules
+node_modules/
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*~

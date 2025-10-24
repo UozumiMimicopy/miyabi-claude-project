@@ -1,0 +1,15 @@
+github:
+  defaultPrivate: true
+  owner: UozumiMimicopy
+  repo: miyabi-claude-project
+project:
+  gitignoreTemplate: Node
+  licenseTemplate: Apache-2.0
+workflows:
+  autoLabel: true
+  autoReview: true
+  autoSync: true
+cli:
+  language: ja
+  theme: default
+  verboseErrors: true
